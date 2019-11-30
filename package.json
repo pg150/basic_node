@@ -1,0 +1,11 @@
+{
+    "name": "basic_node",
+    "version": "1.0.0",
+    "description": "Simple Node.js Server",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Paul GEHIN",
+    "license": "ISC"
+  }
